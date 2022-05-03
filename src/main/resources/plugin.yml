@@ -1,0 +1,8 @@
+name: SimpleJavaBasicsPlugin
+version: '${project.version}'
+main: de.dragonrexx.simplejavabasicsplugin.SimpleJavaBasicsPlugin
+api-version: 1.18
+authors: [ DragonRexx ]
+commands:
+  heal:
+  mctodc:
